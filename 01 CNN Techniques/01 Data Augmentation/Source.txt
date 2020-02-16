@@ -1,0 +1,5 @@
+https://github.com/mdbloice/Augmentor
+https://keras.io/api/preprocessing/image/
+
+Guide:
+https://www.geeksforgeeks.org/python-data-augmentation/
